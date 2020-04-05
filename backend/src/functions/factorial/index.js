@@ -1,0 +1,1 @@
+export { factorial, factorialTests } from './factorial'
